@@ -5,14 +5,35 @@
 ### [Click here to view Festinate - The Festival Companion App](https://https://festinate.herokuapp.com/#!/)
 
 ### Technology Used During Build
-* Angular (Java Script)
+* Angular v1.7.3 (Java Script - ECMAScript 6)
 * SCSS / CSS
-* HTML
+* Node.js
+* HTML 5
 * Github
 * API's
 * Sketch App
 * Heroku App
 * Marvel App
+* @uirouter/angularjs: v1.0.20
+* bulma: v0.7.1
+* moment: v2.22.2
+* satellizer: v0.15.5
+* MongoDB
+* bcrypt: v3.0.0
+* bluebird: v3.5.1
+* body-parser: v1.18.3
+* express: v4.16.3
+* jsonwebtoken: v8.3.0
+* mongoose: v5.2.8
+* morgan: v1.9.0
+* request-promise: v4.2.2
+* chai: v4.1.2
+* mocha: v5.2.0
+* nyc: v12.0.2
+* supertest: v3.1.0
+* Trello
+* Google Fonts
+* Fontawesome
 
 ### What I worked on
 * All Wireframes
