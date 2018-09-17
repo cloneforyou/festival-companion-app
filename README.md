@@ -4,8 +4,6 @@
 
 ### [Click here to view Festinate - The Festival Companion App](https://https://festinate.herokuapp.com/#!/)
 
-### [Click here to view Git Repo](https://github.com/maxcramer/festival-companion-app)
-
 ### Technology Used During Build
 * Angular (Java Script)
 * SCSS / CSS
