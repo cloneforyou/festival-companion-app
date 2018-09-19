@@ -2,7 +2,7 @@
 
 ![icon size](https://i.imgur.com/wMTyRQy.png)
 
-### [Click here to view Festinate - The Festival Companion App](https://https://festinate.herokuapp.com/#!/)
+### [Click here to view Festinate - The Festival Companion App](https://festinate.herokuapp.com/#!/)
 
 ### Technology Used During Build
 * Angular v1.7.3 (Java Script - ECMAScript 6)
