@@ -5,7 +5,7 @@
 ### [Click here to view Festinate - The Festival Companion App](https://festinate.herokuapp.com/#!/)
 
 ### Technology Used During Build
-* Angular v1.7.3 (Java Script - ECMAScript 6)
+* Angular v1.7.3 (JavaScript - ECMAScript 6)
 * SCSS / CSS
 * Node.js
 * HTML 5
